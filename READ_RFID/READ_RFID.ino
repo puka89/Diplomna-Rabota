@@ -20,8 +20,6 @@ void setup() {
   digitalWrite(RFID_speed, LOW);
   digitalWrite(RFID_mode, LOW);
   digitalWrite(RFID_modu, HIGH);
-  
-  Serial.println("stup done");
 }
 
 void loop() {
